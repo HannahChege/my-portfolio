@@ -6,17 +6,26 @@ h4{
   font-style: italic;
   font-weight: bolder;
   font-family;serif;
-  text-shadow: 2px 2px
+  text-shadow: 2px 2px;
+  text-shadow: 0 0 3px #FF0000, 0 0 5px #0000FF;
+  margin: 10px;
+    background-color: #ffffff;
+    border: 1px solid black;
+    opacity: 0.6;
+    filter: alpha(opacity=60);
 }
 img {
     border-radius: 30%;
     image-orientation: center;
     align: center;
+    opacity: 1;
+    filter: alpha(opacity=50);
+    border: 2px solid black;
+}
 
 }
 body{
   background-color: maroon;
-  background-image: radial-gradient();
 }
 .container{
   background-color: red;
