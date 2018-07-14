@@ -1,28 +1,4 @@
-h4{
-  color:black;
-  text-align:center;
-  font-size: 40px;
-  font-style: italic;
-  font-weight: bolder;
-  font-family;serif;
-  text-shadow: 2px 2px;
-  text-shadow: 0 0 3px #FF0000, 0 0 5px #0000FF;
-  margin: 10px;
-    background-color: #ffffff;
-    border: 1px solid black;
-    opacity: 0.6;
-    filter: alpha(opacity=60);
-}
-
-}
-body{
+.topnav{
   background-color: maroon;
-}
-.container{
-  background-color: red;
-}
-.topnav a{
-  background-color: maroon;
-  font-size: 20px;
-
+  height: 150px;
 }
