@@ -1,4 +1,11 @@
 .topnav{
-  background-color: maroon;
+  background-color:gray;
+  color:black;
   height: 150px;
+}
+.container {
+    padding: 2px 90px;
+}
+.img{
+  float: left;
 }
