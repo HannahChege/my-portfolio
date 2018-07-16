@@ -9,3 +9,16 @@
 .img{
   float: left;
 }
+body{
+  background-color: silver;
+}
+.container{
+  border-style: solid;
+    border-color: black;
+padding: 25px;
+box-sizing: border-box;
+background-color: lightblue;
+}
+h1{
+  text-align: center;
+}
