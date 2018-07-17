@@ -1,27 +1,35 @@
-# MY PORTFOLIO
-
+# TITLE
+MY PORTFOLIO
 ## DESCRIPTION
+
    This page identifyies the skills i have gained through my various
    experiences and how they relate to the career am  interested in.
    Choosing the most relevant experiences and putting them in an easily understood format will help you better articulate your skills.
     and experiences when asked questions about your qualifications in an interview.
     This are the langauges that i have used.
+
 ## AUTHOR
+
 By HANNAH CHEGE
 
 ## PREREQUISITES
+
 you require a browser preferably chrome to run this site.You will require a texteditor e.g ATOM if your planning on editing.
 
 ## BUILT WITH
--html
--css
--bootstrap
+
+\-html
+\-css
+\-bootstrap
 
 ## LINK TO LIVE SITE
-https://github.com/HannahChege/my-portfolio
+
+<https://github.com/HannahChege/my-portfolio>
 
 ## CONTACT DETAILS
+
 in case of any problems when accesing my site feel free to contact me on hannahchege45@gmail.com your feedback will be highly appreciated
+
 ## LICENCE
 
 Permission is hereby granted, free of charge, to any person obtaining a copy of this software and associated documentation files (the "Software"), to deal in the Software without restriction, including without limitation the rights to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the Software, and to permit persons to whom the Software is furnished to do so, subject to the following conditions:
