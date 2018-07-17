@@ -1,8 +1,10 @@
 # TITLE
+
 MY PORTFOLIO
+
 ## DESCRIPTION
 
-   This page identifyies the skills i have gained through my various
+This page identifyies the skills i have gained through my various
    experiences and how they relate to the career am  interested in.
    Choosing the most relevant experiences and putting them in an easily understood format will help you better articulate your skills.
     and experiences when asked questions about your qualifications in an interview.
